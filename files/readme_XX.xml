@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Paper>
+	<PaperType>Write your answer here, e.g., research or demo</PaperType>
+	<PaperID>Write the paper ID allocated to your paper in CMT</PaperID>
+	<Title>Write the title of the paper here. It must match the paper title in CMT and the camera ready version</Title>
+	<Authors>Write the full names of all authors in the order they appear in the camera ready version. The names must be separated by a comma</Authors>
+	<CorrespondingAuthor>Write the name of the corresponding author</CorrespondingAuthor>
+	<CorrespondingAuthorEmail>Write the email address of the corresponding author</CorrespondingAuthorEmail>
+</Paper>

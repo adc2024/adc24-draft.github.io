@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Paper>
+	<PaperType>research</PaperType>
+	<PaperID>26</PaperID>
+	<Title>An Efficient Algorithm to Process XYZ Queries</Title>
+	<Authors>Lijun Chang, Junhao Gan, Xin Cao</Authors>
+	<CorrespondingAuthor>Xin Cao</CorrespondingAuthor>
+	<CorrespondingAuthorEmail>xin.cao@unsw.edu.au</CorrespondingAuthorEmail>
+</Paper>

@@ -1,0 +1,14 @@
+.underline-yellow {
+    width: 64px;
+    height: 2px;
+    background-color: #FFB119;
+}
+
+.text-link {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%;
+    text-decoration-line: underline;
+    color: #3A7BDC;
+}
