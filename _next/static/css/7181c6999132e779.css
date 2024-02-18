@@ -579,6 +579,10 @@ video {
     min-height: 60px
 }
 
+.min-h-16 {
+    min-height: 4rem; 
+}
+
 .min-h-20 {
     min-height: 5rem; 
 }
@@ -646,6 +650,11 @@ video {
 .max-w-\[70em\] {
     max-width: 70em
 }
+
+.min-w-16 {
+    min-width: 4rem; 
+}
+
 
 .min-w-20 {
     min-width: 5rem; 
